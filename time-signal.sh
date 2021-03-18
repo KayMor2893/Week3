@@ -1,3 +1,4 @@
+#!/bin/bash
 # save as time-signal.sh
 # gives no chime when minutes are less than 20, one chime if greater than 20 but less than 40 and two chimes if greater than 40 with one second sleep
 time=$(date +%M)
